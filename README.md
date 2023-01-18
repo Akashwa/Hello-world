@@ -1,2 +1,2 @@
-# Hello-world
+# My project
 practice a hello world repository
